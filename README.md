@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ TaskFlow — Full-Stack Flask & SQLite Task Manager Backend
 
 TaskFlow is a production-ready, modular Flask web application and REST API backend with SQLite database persistence, WTForms server-side validation, clean Blueprint architecture, and complete cloud deployment configurations.
@@ -99,3 +100,7 @@ Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your web browser.
 See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) for full walkthroughs:
 - **Render (Mandatory/Production)**: Deploy as a 24/7 web service with persistent backend.
 - **Vercel (Serverless Demo)**: Deploy as an on-demand serverless function.
+=======
+# DEV-SPARK
+DEV spark task management
+>>>>>>> 8a6c2fbe67cdec008fba636836079b8d29ba1b5a
